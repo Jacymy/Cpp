@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/1.1.dir/main.cpp.o CMakeFiles/1.1.dir/src/test.cpp.o CMakeFiles/1.1.dir/src/demo.cpp.o -o bin/1.1

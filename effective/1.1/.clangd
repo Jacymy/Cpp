@@ -1,0 +1,8 @@
+CompileFlags:
+  Add: [
+    -std=c++20,
+    -I/root/Cpp/effective/1.1/include/,
+  ]
+  CompilationDatabase: build/                # 在"build/"目录下查找compile_commands.json文件来获取编译数据库
+  # Diagnostics:
+  #   UnusedIncludes: None                     # 忽略未使用的包含（注释掉，表示当前不处理未使用的包含)

@@ -1,0 +1,20 @@
+# 基于 Google 风格的格式
+BasedOnStyle: Google
+
+# 缩进宽度设置为 2
+IndentWidth: 2
+
+# 不对头文件进行排序
+SortIncludes: false
+
+# 列宽限制设置为 120
+ColumnLimit: 120
+
+# 括号前断开
+BraceBreakingStyle: Attach
+
+# 设定指针对齐方式为 "Left"（指针符号放置在类型名旁边）
+PointerAlignment: Left
+
+# 禁用自动调整指针对齐方式
+DerivePointerAlignment: false
